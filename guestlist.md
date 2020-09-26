@@ -43,3 +43,4 @@
 * Scott McCarty      @fatherlinux
 * David McKay        @rawkode
 * Diane Mueller      @pythondj
+* Idit Levine        @idit_levine
