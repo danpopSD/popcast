@@ -5,7 +5,7 @@
 * Silvia Botros
 * Nicole Forsgren
 * Alice Goldfuss
-* Bridget Kromhout
+* Bridget Kromhout  [@bridgetkromhout](https://twitter.com/bridgetkromhout)
 * @jaicesd
 * @theamycode
 * Emily Freeman
@@ -19,7 +19,7 @@
 * Heidi Waterhouse
 * Paris Pittman
 * Aimee Ukasick
-* Kaslin Fields
+* Kaslin Fields  [@kaslinfields](https://twitter.com/kaslinfields)
 * Molly Crowther
 * Nicole Hubbard
 * Lynn Cyrin
@@ -46,3 +46,7 @@
 * Michael Hausenblas [@mhausenblas](https://twitter.com/mhausenblas)
 * Nikhita Raghunath  [@TheNikhita](https://twitter.com/TheNikhita)
 * Maciej Szulik (one of the kubectl fathers!) [@soltysh](https://twitter.com/soltysh)
+* Holly Cummins      [@holly_cummins](https://twitter.com/holly_cummins)
+* Alena Prokharchyk  [@Lemonjet](https://twitter.com/Lemonjet)
+* Constance Caramanolis  [@ccaramanolis](https://twitter.com/ccaramanolis)
+* Tabitha Sable        [@TabbySable](https://twitter.com/TabbySable)
